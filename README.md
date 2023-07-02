@@ -8,4 +8,4 @@ NGramSequenceTransformer.py 字符序列转换\
 pr.py 多分类PR曲线以及Score的计算\
 Utils 一些工具
 
-This repository contains code from [GramBeddings](https://github.com/fcdalgic/GramBeddings) and this [paper](https://www.sciencedirect.com/science/article/abs/pii/S016740482200356X)
+This repository contains code from [GramBeddings](https://github.com/fcdalgic/GramBeddings) and this [paper](https://www.sciencedirect.com/science/article/abs/pii/S016740482200356X).
